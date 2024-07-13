@@ -36,10 +36,11 @@ Scanner Class: Utilized for taking user input from the console.
 Conditional Statements: Used for performing different operations based on user input.
 Switch Case: Used for executing different arithmetic operations based on user choice.
 
-<img width="959" alt="Task_1" src="https://github.com/user-attachments/assets/34297a39-a10f-4659-b2c6-7764a921b848">
-<img width="959" alt="Task_1" src="https://github.com/user-attachments/assets/1ad4e5cc-4697-4238-bb1c-e4075ff1d5e9">
-<img width="959" alt="taskm_1" src="https://github.com/user-attachments/assets/c1cbce99-2e4c-4cc9-9fe2-73405c34503a">
-<img width="959" alt="Task1d" src="https://github.com/user-attachments/assets/e2198180-332e-40c9-8d97-36c905ae904f">
+**Sample Test**
+**Addition:**<img width="959" alt="Task_1" src="https://github.com/user-attachments/assets/34297a39-a10f-4659-b2c6-7764a921b848"><br>
+**Subtraction:**<img width="959" alt="Task_1" src="https://github.com/user-attachments/assets/1ad4e5cc-4697-4238-bb1c-e4075ff1d5e9"><br>
+**Multiplication:**<img width="959" alt="taskm_1" src="https://github.com/user-attachments/assets/c1cbce99-2e4c-4cc9-9fe2-73405c34503a"><br>
+**Division:**<img width="959" alt="Task1d" src="https://github.com/user-attachments/assets/e2198180-332e-40c9-8d97-36c905ae904f"><br>
 
 
 
