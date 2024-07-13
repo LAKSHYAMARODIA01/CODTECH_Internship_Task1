@@ -1,9 +1,9 @@
-Name: LAKSHYA MARODIA
-Company: CODTECH IT SOLUTION
-ID: CT8JP1765
-Domain: JAVA PROGRAMMING.
-Duration: 10thJuly to 10thSeptember, 2024
-Mentor: MUZAMMIL AHMED.
+Name: LAKSHYA MARODIA<br>
+Company: CODTECH IT SOLUTION<br>
+ID: CT8JP1765<br>
+Domain: JAVA PROGRAMMING.<br>
+Duration: 10thJuly to 10thSeptember, 2024<br>
+Mentor: MUZAMMIL AHMED.<br>
 
 Project Title: **Basic Calculator in Java**
 
